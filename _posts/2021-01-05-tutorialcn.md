@@ -8,7 +8,7 @@ excerpt: 说真的，有手就行
 # LemonBlog🍋
 LemonBlog🍋可以让您自动生成一个轻量级的、基于Jekyll的静态网站。  
 来康康[演示网站](http://lemonblog.magi.red)！  
-LemonBlog🍋只需要您提供一个文档，剩下的都会由系统完成，包括目录，样式……  
+LemonBlog🍋只需要您提供Markdown文档，之后所有事务都会由系统包办，包括目录，样式……  
 文章基于LemonBlog🍋 v0.0.1 alpha
 
 # 如何拥有自己的LemonBlog🍋
