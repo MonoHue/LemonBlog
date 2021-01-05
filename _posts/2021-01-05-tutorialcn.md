@@ -15,12 +15,11 @@ LemonBlog🍋只需要您提供Markdown文档，之后所有事务都会由系�
 LemonBlog🍋的获取方式非常简单！
 ## 一！拥有Github账号
 登陆[Github](https://github.com)，注册一个自己的账号。
-## 二！获取LemonBlog🍋
-[在Github上新建一个库（repository）](https://github.com/new)，点击导入库的链接。![导入库]({{ site.url }}/downloads/tutorial-import.png)  
-在链接栏输入 https://github.com/MonoHue/LemonBlog ，再给你的库取一个好听的名字，最后点击**开始导入**。
+## 二！获取LemonBlog🍋  
+打开[LemonBlog🍋的Github地址](https://github.com/MonoHue/LemonBlog)，点击右上角"Watch, Star, Fork"的fork按钮，fork到自己的账号中。  
 
 ## 三！运行你的网站
-在库的最右，点击设定，然后拉到最下方，有一个Github Pages。  ![Github Pages]({{ site.url }}/downloads/tutorial-pages.png)
+在你自己的LemonBlog🍋库页面的最右，点击设定，然后拉到最下方，有一个Github Pages。  ![Github Pages]({{ site.url }}/downloads/tutorial-pages.png)
 按照上图选择，你就拥有你的LemonBlog🍋了！通过显示的链接，你可以跳转到你专属的LemonBlog🍋！
 
 ## 四！给你的网站一个新名字
