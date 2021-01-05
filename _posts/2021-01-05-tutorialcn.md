@@ -19,7 +19,7 @@ LemonBlog🍋的获取方式非常简单！
 在链接栏输入 https://github.com/MonoHue/LemonBlog ，再给你的库取一个好听的名字，最后点击**开始导入**。
 ## 三！启动前最后的改动
 进入你的库内，你需要删除CNAME和LICENSE这两个文件（？
-TODO
+TODO 
 
 # 一起开发LemonBlog🍋！
 我们期待和您一起开发LemonBlog🍋！ 
