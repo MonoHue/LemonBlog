@@ -1,6 +1,6 @@
 #Website Info
-#Deflaut - USERNAME.github.io/REPOSITORY
-BaseUrl: "LemonBlog.magi.red"
+#If you have a domain, you can replace it with yours
+BaseUrl: "USERNAME.github.io/REPOSITORY"
 #The name of your website
 WebName: "LemonBlog🍋"
 #It may show on the first page of your website
