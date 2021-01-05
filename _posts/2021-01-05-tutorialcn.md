@@ -27,7 +27,7 @@ LemonBlog🍋的获取方式非常简单！
 你需要在库内的代码里，找到很显眼的_config.yml，进去之后是这样的。![_config.yml]({{ site.url }}/downloads/tutorial-config.png)  
 然后你需要修改_config.yml一些内容,你可以点击最右边"电脑，笔，垃圾桶"的笔来修改：
 > BaseUrl: "LemonBlog.magi.red"  
-> 你可能会有你的域名。如果有的话，把你希望的域名写在双引号内；如果没有，这行冒号之后的内容都删去。  
+> 把【三！运行你的网站】中生成的链接完整的放在引号内。如果有自己的域名并且愿意使用，把你域名写在双引号内，同时需要改一下DNS解析。 
 > WebName: "LemonBlog🍋"  
 > 在引号内修改你的网站名。  
 > Slogan: "The Slogan of the Website"  
@@ -38,7 +38,7 @@ LemonBlog🍋的获取方式非常简单！
 然后点击最下方的提交就可以了。
 
 # 一起开发LemonBlog🍋！
-我们期待和您一起开发LemonBlog🍋！ 
+我们期待和您一起开发LemonBlog🍋！  
 **[LemonBlog🍋的Github地址](https://github.com/MonoHue/LemonBlog)**
 
 # 进阶：修改你的网站
