@@ -1,2 +1,1 @@
-# LemonBlog
-An easy-to-use Blog on Github Pages.
+# The website of this repository.

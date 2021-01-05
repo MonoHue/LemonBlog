@@ -1,0 +1,23 @@
+#Website Info
+#Deflaut - USERNAME.github.io/REPOSITORY
+BaseUrl: "LemonBlog.magi.red"
+#The name of your website
+WebName: "LemonBlog🍋"
+#It may show on the first page of your website
+Slogan: "The Slogan of the Website"
+#If you don't need a suffix, just replace it with ""
+WebSuffix: " - LemonBlog"
+
+#Paginator
+#The quantity of post on one page you want to publish
+paginate: 10
+#Don't change it
+paginate_path: "page:num"
+
+#Excerpt
+#We recommended to EXPLICITLY make your excerpt
+excerpt_separator:  '<!-- more -->'
+
+#Experimental - Accent Color
+MainBgColor: bg-blue
+MainTextColor: text-blue
