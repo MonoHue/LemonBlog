@@ -21,3 +21,5 @@ excerpt_separator:  '<!-- more -->'
 #Experimental - Accent Color
 MainBgColor: bg-blue
 MainTextColor: text-blue
+
+theme: jekyll-theme-cayman
